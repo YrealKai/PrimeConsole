@@ -1,0 +1,11 @@
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp2.1\PrimeConsole.deps.json
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp2.1\PrimeConsole.runtimeconfig.json
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp2.1\PrimeConsole.runtimeconfig.dev.json
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp2.1\PrimeConsole.dll
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\bin\Debug\netcoreapp2.1\PrimeConsole.pdb
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.csprojAssemblyReference.cache
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.AssemblyInfoInputs.cache
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.AssemblyInfo.cs
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.dll
+C:\Users\Truan\source\repos\PrimeConsole\PrimeConsole\obj\Debug\netcoreapp2.1\PrimeConsole.pdb
